@@ -1,0 +1,535 @@
+host_id,host_name,host_since,host_location,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_neighbourhood,host_listings_count,host_has_profile_pic,host_identity_verified
+2139546,Robin,2012-04-14,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,False
+12083797,Molly,2014-02-09,"Boston, Massachusetts, United States",within a day,93.0,73.0,False,Jamaica Plain,2,True,True
+3840038,Sidney,2012-10-11,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,False
+21873698,Elizabeth,2014-09-28,"Boston, Massachusetts, United States",within a few hours,100.0,89.0,True,Jamaica Plain,1,True,True
+10910804,Evelyn,2013-12-30,"Boston, Massachusetts, United States",within a day,70.0,85.0,False,Jamaica Plain,2,True,True
+14303759,Susan,2014-04-15,"Boston, Massachusetts, United States",within a few hours,100.0,89.0,True,Jamaica Plain,4,True,True
+207475,Danielle&Peder,2010-08-20,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+32449720,Shawn,2015-05-02,US,within an hour,100.0,100.0,True,,1,True,False
+5055078,Ashley,2013-02-11,"Boston, Massachusetts, United States",a few days or more,36.0,93.0,False,Jamaica Plain,1,True,True
+9350281,Emily,2013-10-10,"Boston, Massachusetts, United States",within a few hours,100.0,50.0,False,Jamaica Plain,1,True,False
+24701232,Robert,2014-12-10,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,False
+7394101,Diane,2013-07-10,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Jamaica Plain,1,True,True
+19280995,Kaitlin,2014-08-01,"Boston, Massachusetts, United States",within a few hours,73.0,100.0,False,Jamaica Plain,4,True,True
+2444900,David,2012-05-23,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,False
+8167936,Siqi,2013-08-14,"Cambridge, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+16337422,Orion,2015-06-23,"Boston, Massachusetts, United States",within a day,50.0,100.0,False,Jamaica Plain,2,True,True
+964356,Jill,2011-08-13,"Boston, Massachusetts, United States",within a few hours,100.0,75.0,False,Jamaica Plain,1,True,False
+5028116,Jason,2013-02-09,"Boston, Massachusetts, United States",within a few hours,100.0,56.0,True,Jamaica Plain,4,True,True
+57514323,Mark,2016-02-05,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+391664,Nora,2011-02-14,"Boston, Massachusetts, United States",within a day,60.0,88.0,False,Jamaica Plain,1,True,True
+8154081,Cezanne,2013-08-14,"Boston, Massachusetts, United States",within a day,67.0,100.0,False,Jamaica Plain,1,True,True
+2796082,Margaret,2012-07-01,"Boston, Massachusetts, United States",within an hour,100.0,76.0,False,Jamaica Plain,2,True,True
+5670669,Kelly,2013-03-28,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,False
+5580771,Alison (& Shawn),2013-03-22,"Boston, Massachusetts, United States",within a few hours,90.0,92.0,False,Jamaica Plain,1,True,True
+1805868,Zachary,2012-02-24,"Boston, Massachusetts, United States",within an hour,100.0,57.0,False,Jamaica Plain,1,True,True
+5689782,Cora,2013-03-30,"Boston, Massachusetts, United States",within an hour,100.0,74.0,False,Jamaica Plain,1,True,False
+16052189,Jonathan,2014-05-27,"Boston, Massachusetts, United States",within a few hours,78.0,82.0,False,Hyde Park,6,True,True
+15123694,Lucia,2014-05-05,"Boston, Massachusetts, United States",within a day,67.0,100.0,False,Jamaica Plain,1,True,True
+987917,Helder,2011-08-18,"Boston, Massachusetts, United States",within a day,100.0,56.0,False,Jamaica Plain,3,True,True
+9662986,Wilke,2013-10-27,"Boston, Massachusetts, United States",within an hour,100.0,89.0,True,Jamaica Plain,1,True,True
+16067950,Moshe,2014-05-27,"Brookline, Massachusetts, United States",within a few hours,86.0,100.0,False,,1,True,True
+12937716,Jean-Ellen,2014-03-08,"St. Johnsbury, Vermont, United States",within an hour,90.0,100.0,False,Jamaica Plain,1,True,True
+24593919,Minor,2014-12-07,US,within a few hours,100.0,93.0,False,Jamaica Plain,2,True,True
+20040612,Jared,2015-08-21,"Massachusetts, United States",within a few hours,80.0,100.0,False,Jamaica Plain,1,True,True
+1531239,Lita,2011-12-23,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+848706,Phyllis,2011-07-21,"Boston, Massachusetts, United States",within a day,90.0,62.0,False,Jamaica Plain,1,True,True
+3578624,Karen,2012-09-15,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+45402419,Jil,2015-09-29,"Boston, Massachusetts, United States",within a few hours,100.0,77.0,False,Jamaica Plain,4,True,False
+30314324,Eileen,2015-03-30,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,False
+25636575,Karin,2015-01-05,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+72132089,Hannah,2016-05-15,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,True
+13424353,Leo,2014-03-22,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+5153431,Katie And Joe,2013-02-19,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+1922657,Catherine,2012-03-14,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,2,True,True
+352441,Lillie,2011-01-18,"Boston, Massachusetts, United States",within a few hours,100.0,33.0,False,Jamaica Plain,1,True,True
+79103444,Bruce,2016-06-21,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,False
+14696258,Sarah,2014-04-24,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,2,True,True
+1498417,Chad,2011-12-12,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+4191762,Jeff,2012-11-19,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+1169936,Laura,2011-09-16,"Boston, Massachusetts, United States",within a day,100.0,58.0,False,Jamaica Plain,1,True,True
+12795084,Lynne,2014-03-04,"Boston, Massachusetts, United States",within a day,100.0,83.0,False,Jamaica Plain,1,True,True
+3676936,Roberto,2012-09-25,"Boston, Massachusetts, United States",within a few hours,100.0,89.0,False,Jamaica Plain,1,True,True
+55603,Ashley,2009-11-18,"Boston, Massachusetts, United States",within a few hours,90.0,100.0,False,Jamaica Plain,1,True,False
+52274002,Julia,2015-12-26,"Boston, Massachusetts, United States",within an hour,100.0,67.0,False,Jamaica Plain,1,True,True
+7594805,Julia,2013-07-19,"Boston, Massachusetts, United States",within a day,96.0,78.0,False,Jamaica Plain,1,True,True
+11487565,Josefa,2014-01-20,"Miami, Florida, United States",within an hour,100.0,78.0,False,South Beach,8,True,True
+68125441,Katie,2016-04-20,US,a few days or more,40.0,83.0,False,Jamaica Plain,1,True,False
+24584716,Miriam,2014-12-07,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,3,True,True
+15760345,Balint,2014-05-20,"Boston, Massachusetts, United States",within a few hours,100.0,81.0,False,Jamaica Plain,2,True,True
+2155838,Molly,2012-04-16,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+31247560,Sybil,2015-04-14,"Cambridge, Massachusetts, United States",a few days or more,0.0,100.0,False,Jamaica Plain,1,True,False
+21644095,David,2014-09-22,"Boston, Massachusetts, United States",within an hour,100.0,93.0,True,Jamaica Plain,2,True,True
+8021,L&B (Len & Becky Or Blenky*),2009-02-16,"Seattle, Washington, United States",within an hour,94.0,95.0,True,Jamaica Plain,5,True,True
+5448841,Andrew,2013-03-13,"Boston, Massachusetts, United States",within a few hours,100.0,25.0,False,Jamaica Plain,1,True,True
+37835016,Erin,2015-07-07,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+19798741,Pam,2014-08-10,"Boston, Massachusetts, United States",within a day,80.0,90.0,False,Jamaica Plain,2,True,True
+4595799,Fivos,2013-01-05,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,5,True,True
+49453306,Gail,2015-11-19,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,2,True,True
+38120441,Jacob,2015-07-10,"Boston, Massachusetts, United States",within a day,90.0,88.0,False,Jamaica Plain,1,True,True
+18896448,Sandy,2014-07-25,"Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,True
+18807469,Derian,2014-07-24,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,3,True,True
+5052732,Josh+Kate,2013-02-11,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Jamaica Plain,1,True,True
+32071442,Sarah,2015-04-27,"Boston, Massachusetts, United States",within a few hours,92.0,94.0,False,Jamaica Plain,1,True,True
+1920539,Caitlin & Dan,2012-03-14,"Boston, Massachusetts, United States",within a few hours,100.0,96.0,False,Jamaica Plain,1,True,True
+1035747,Maria Elena,2011-08-29,"Boston, Massachusetts, United States",within a day,100.0,83.0,True,Jamaica Plain,1,True,True
+35962316,Zack,2015-06-16,"Boston, Massachusetts, United States",within a few hours,100.0,17.0,False,Jamaica Plain,1,True,True
+4210157,Marian,2012-11-21,"Boston, Massachusetts, United States",within an hour,90.0,100.0,False,Jamaica Plain,2,True,True
+47251069,David,2015-10-23,"Boston, Massachusetts, United States",within an hour,100.0,90.0,False,Jamaica Plain,2,True,True
+3945438,Lisa,2012-10-22,"Boston, Massachusetts, United States",within a few hours,100.0,96.0,True,Jamaica Plain,2,True,True
+48719428,Diego,2015-11-10,"San Isidro, Buenos Aires Province, Argentina",within a day,50.0,56.0,False,Jamaica Plain,1,True,True
+69203736,Jason,2016-04-27,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,False
+1500300,Anya,2011-12-13,"Chicago, Illinois, United States",within a few hours,100.0,86.0,False,Jamaica Plain,1,True,True
+28193547,Jordan,2015-02-22,"Boston, Massachusetts, United States",within a day,100.0,50.0,False,Jamaica Plain,2,True,True
+79610778,Kristen,2016-06-24,US,within a few hours,70.0,100.0,False,Jamaica Plain,1,True,False
+77569960,Margaret,2016-06-13,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,1,True,False
+3817361,Alishya,2012-10-09,"Boston, Massachusetts, United States",within a day,100.0,63.0,False,Jamaica Plain,2,True,True
+1622932,Cara,2012-01-18,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Jamaica Plain,1,True,True
+13812113,Ray,2014-04-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+119381,Gordon And Alexandra,2010-05-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+1480518,Lisa,2011-12-07,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,4,True,True
+64682226,Daniel,2016-03-27,"Boston, Massachusetts, United States",within a few hours,100.0,33.0,False,Jamaica Plain,1,True,False
+30490577,Lori,2015-04-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,3,True,True
+3381838,Eliza,2012-08-26,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+19342870,Rolvix,2014-08-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+32784275,Manuel,2015-05-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+9329890,Andrew,2013-10-09,"Boston, Massachusetts, United States",within a few hours,100.0,20.0,False,Jamaica Plain,2,True,True
+8498315,Joe/Ayad,2013-08-28,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+31691830,Penny,2015-04-21,"Boston, Massachusetts, United States",within a few hours,100.0,78.0,True,Jamaica Plain,1,True,True
+9991368,Caitlin,2013-11-13,US,within a day,67.0,33.0,False,Jamaica Plain,1,True,False
+23759488,Tricia,2014-11-15,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+17844905,Susie,2014-07-08,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+206353,Perry,2010-08-19,"Boston, Massachusetts, United States",within an hour,100.0,96.0,False,Benton Park,8,True,True
+25932315,Heriberto,2015-01-11,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+14840087,Carey,2014-04-28,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+3900945,Emily And Carl,2012-10-17,"Boston, Massachusetts, United States",within a few hours,90.0,83.0,False,Jamaica Plain,2,True,True
+1450086,Peter,2011-11-28,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+14993032,Leah,2014-05-01,"Boston, Massachusetts, United States",,,,False,,1,True,True
+29709417,Jon,2015-03-20,"Boston, Massachusetts, United States",within an hour,100.0,82.0,False,Jamaica Plain,1,True,True
+50199143,Paul,2015-11-30,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,False
+67325902,Brooke,2016-04-15,"Boston, Massachusetts, United States",within a day,80.0,70.0,False,Jamaica Plain,1,True,True
+47588894,Rebecca,2015-10-27,US,,,,False,Jamaica Plain,1,True,False
+18190121,Andrea,2014-07-16,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,2,True,True
+2727109,Tom,2012-06-24,"Hingham, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+1106261,Jonas,2011-09-03,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+3920014,Patti And Javier,2012-10-19,"Boston, Massachusetts, United States",within a few hours,100.0,96.0,True,Jamaica Plain,2,True,True
+869131,Maura,2011-07-25,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,True
+6391436,Robin And Victoria,2013-05-14,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,5,True,True
+3129367,Louis,2012-08-01,"Boston, Massachusetts, United States",within an hour,100.0,92.0,False,Jamaica Plain,2,True,True
+6668129,Charles,2013-05-31,US,,,,False,Jamaica Plain,1,True,True
+52989144,Brian,2016-01-01,"Boston, Massachusetts, United States",within a few hours,100.0,85.0,False,Jamaica Plain,1,True,False
+48936696,Sarah,2015-11-13,"Boston, Massachusetts, United States",within a day,100.0,80.0,False,Jamaica Plain,1,True,True
+635157,Catlin,2011-05-28,"Boston, Massachusetts, United States",within a few hours,90.0,73.0,True,Jamaica Plain,1,True,True
+557469,Gerald,2011-05-04,"Boston, Massachusetts, United States",within a day,100.0,0.0,True,Jamaica Plain,1,True,True
+51236938,Vanessa,2015-12-13,US,within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+29531596,Marcus,2015-03-17,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,1,True,False
+113091,Nina And Mike,2010-04-24,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+236790,Ann,2010-09-16,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+15172911,Zoe,2014-05-06,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Jamaica Plain,1,True,False
+5215706,Alexis,2013-02-24,"Boston, Massachusetts, United States",within a day,60.0,60.0,False,Jamaica Plain,2,True,True
+27112758,Joe,2015-02-02,"Boston, Massachusetts, United States",within a few hours,100.0,82.0,False,,1,True,True
+2810446,Danielle,2012-07-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,2,True,True
+31655122,Bonnie,2015-04-21,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+22249835,Sean,2014-10-07,"Boston, Massachusetts, United States",within an hour,96.0,100.0,False,Jamaica Plain,2,True,True
+5965548,Colombine,2013-04-17,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,,1,True,True
+12164071,Cynthia,2014-02-11,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,3,True,True
+4147257,Jenn,2012-11-14,"Boston, Massachusetts, United States",within a few hours,100.0,72.0,False,Jamaica Plain,1,True,True
+14743729,David,2014-04-26,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+13897255,Chris,2014-04-04,"Massachusetts, United States",within a few hours,100.0,100.0,False,,1,True,True
+174986,Robert,2010-07-20,"Boston, Massachusetts, United States",within a few hours,90.0,100.0,True,Jamaica Plain,1,True,True
+4852286,Marie-Jose,2013-01-26,"Boston, Massachusetts, United States",within a day,75.0,20.0,False,Jamaica Plain,1,True,True
+36278389,Jessica,2015-06-20,US,within a few hours,100.0,100.0,False,Jamaica Plain,1,True,False
+1624549,Andrew,2012-01-18,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,1,True,True
+1713739,Andree,2012-02-07,"Boston, Massachusetts, United States",within an hour,100.0,98.0,False,Jamaica Plain,2,True,True
+16379445,Kelly,2014-06-04,"Boston, Massachusetts, United States",,,,True,Jamaica Plain,1,True,True
+55958506,Noél,2016-01-24,"Boston, Massachusetts, United States",within an hour,90.0,100.0,False,Jamaica Plain,1,True,True
+48876489,Rachel,2015-11-12,"Boston, Massachusetts, United States",within a few hours,100.0,83.0,False,,1,True,False
+3130698,Mariana,2012-08-01,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+50464388,Edana,2015-12-03,US,within an hour,100.0,67.0,False,Jamaica Plain,1,True,True
+30099169,Scott,2015-03-27,"Boston, Massachusetts, United States",within a few hours,97.0,86.0,False,Jamaica Plain,1,True,True
+9240847,Jillian,2013-10-05,US,within a few hours,100.0,88.0,False,Jamaica Plain,1,True,True
+1633163,Toyoko,2012-01-21,"Boston, Massachusetts, United States",within a day,100.0,83.0,False,Jamaica Plain,1,True,True
+38015635,Dave,2015-07-09,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+69873384,Jason,2016-05-01,"Boston, Massachusetts, United States",within a few hours,90.0,82.0,False,,1,True,True
+3581975,Rachel,2012-09-16,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+21299112,Helen,2014-09-13,"Boston, Massachusetts, United States",within a day,100.0,100.0,True,Jamaica Plain,2,True,True
+2127414,Katharine (Kit) And Scott,2012-04-12,"Boston, Massachusetts, United States",within a few hours,100.0,90.0,True,Jamaica Plain,1,True,True
+35411494,JonandMargrit,2015-06-09,"Boston, Massachusetts, United States",within a few hours,100.0,94.0,True,Jamaica Plain,2,True,True
+24337472,Julie + Seven,2014-11-30,"Boston, Massachusetts, United States",within an hour,100.0,95.0,True,Jamaica Plain,1,True,True
+2182717,Ame,2012-04-20,"Boston, Massachusetts, United States",within a day,100.0,69.0,False,,1,True,True
+22475241,Mackenzie,2014-10-13,"Boston, Massachusetts, United States",within an hour,67.0,100.0,False,,1,True,False
+15399126,Caroline,2014-05-11,"Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+5325924,Matt,2013-03-04,"Boston, Massachusetts, United States",within a few hours,100.0,0.0,False,Jamaica Plain,1,True,True
+49565531,Maria,2015-11-21,"Boston, Massachusetts, United States",within a few hours,70.0,75.0,False,Jamaica Plain,1,True,True
+4743011,Nina And Emily,2013-01-17,"Boston, Massachusetts, United States",within a day,50.0,100.0,False,Jamaica Plain,1,True,False
+29925050,Tanya,2015-03-24,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+15637560,Adam,2014-05-17,"Boston, Massachusetts, United States",within a few hours,100.0,86.0,True,Jamaica Plain,1,True,True
+89230454,Asad,2016-08-10,US,within a few hours,100.0,100.0,False,Jamaica Plain,1,True,False
+6570954,Tobias,2013-05-25,"Boston, Massachusetts, United States",within a few hours,100.0,94.0,False,Jamaica Plain,1,True,True
+1414385,Woody And Pauline,2011-11-16,"Avignon, Provence-Alpes-Côte d'Azur, France",within a few hours,100.0,100.0,False,Jamaica Plain,2,True,True
+2753598,Celia,2012-06-26,"Atlanta, Georgia, United States",,,,False,Jamaica Plain,2,True,True
+1827998,Alexis,2012-02-28,"Boston, Massachusetts, United States",within an hour,100.0,78.0,False,Jamaica Plain,1,True,True
+20912254,Liz And Dale,2014-09-03,"Boston, Massachusetts, United States",within an hour,100.0,97.0,True,Jamaica Plain,2,True,True
+17917160,Rocio & Jason,2014-07-10,"Boston, Massachusetts, United States",within an hour,100.0,97.0,True,Jamaica Plain,1,True,True
+27756951,Hannah & Philip,2015-02-14,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,,1,True,True
+9622924,Emmanuel,2013-10-24,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+965697,Chris & Kristina,2011-08-13,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,2,True,True
+197327,Melissa,2010-08-10,"Boston, Massachusetts, United States",within a few hours,100.0,92.0,False,Jamaica Plain,2,True,True
+3381271,Margaret,2012-08-26,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,,1,True,False
+333220,Hylton,2011-01-02,"Boston, Massachusetts, United States",within a few hours,100.0,60.0,False,Jamaica Plain,1,True,False
+49640474,Nancy,2015-11-22,"Boston, Massachusetts, United States",within a few hours,100.0,92.0,True,Jamaica Plain,1,True,True
+79575198,Jeff,2016-06-23,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,3,True,True
+2053557,Hilary,2012-04-02,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+39964775,Margaret,2015-07-29,"Boston, Massachusetts, United States",,,,False,,1,True,True
+18589253,Will,2014-07-21,"Boston, Massachusetts, United States",within a few hours,100.0,90.0,False,Jamaica Plain,1,True,True
+847177,Brendan,2011-07-20,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,1,True,True
+62697851,Eli,2016-03-12,"Boston, Massachusetts, United States",within a few hours,100.0,83.0,False,Jamaica Plain,1,True,True
+8814724,Kelly,2013-09-13,US,within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+9155267,Derek,2013-10-01,"San Miguel de Allende, Guanajuato, Mexico",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+548184,Adam And Rachel,2011-05-01,"Boston, Massachusetts, United States",within a few hours,100.0,85.0,True,Jamaica Plain,1,True,True
+10524003,Isaac,2013-12-09,"Boston, Massachusetts, United States",within a few hours,100.0,50.0,False,Jamaica Plain,1,True,True
+1487352,Matt And Eva,2011-12-09,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+5988470,Nikki,2013-04-18,"Boston, Massachusetts, United States",within a day,86.0,75.0,False,Jamaica Plain,1,True,True
+8573721,Razan,2013-09-01,US,within a day,100.0,100.0,False,Jamaica Plain,1,True,False
+1693497,Melissa,2012-02-03,"Jaffrey, New Hampshire, United States",within an hour,100.0,88.0,False,Jamaica Plain,2,True,True
+1956464,Maria,2012-03-18,"Boston, Massachusetts, United States",a few days or more,0.0,100.0,False,Jamaica Plain,1,True,True
+45771009,Riyo,2015-10-04,"Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,2,True,True
+47908069,Kevin,2015-11-01,"Boston, Massachusetts, United States",within a day,100.0,0.0,False,,1,True,True
+23916912,Zach,2014-11-18,"Boston, Massachusetts, United States",within a day,100.0,100.0,True,Jamaica Plain,1,True,True
+13271600,Carol,2014-03-18,"Boston, Massachusetts, United States",within a day,60.0,50.0,False,Jamaica Plain,1,True,True
+7419610,Ariel,2013-07-11,US,within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+4705050,Jared,2013-01-14,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,False
+449295,Dorothy & Seth,2011-03-18,"Boston, Massachusetts, United States",within a few hours,100.0,56.0,True,Jamaica Plain,2,True,True
+3245213,Rachel,2012-08-13,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+46926631,Andrei,2015-10-19,US,within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+5539314,Toni,2013-03-19,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+72882793,Liesl &,2016-05-19,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,4,True,False
+12150111,A And L,2014-02-11,"Boston, Massachusetts, United States",within a few hours,100.0,82.0,True,Jamaica Plain,1,True,True
+39290576,Paul,2015-07-22,"Boston, Massachusetts, United States",within a day,100.0,91.0,False,Jamaica Plain,1,True,False
+6703626,Isabel,2013-06-02,"Boston, Massachusetts, United States",within a day,100.0,33.0,False,Jamaica Plain,1,True,True
+11725202,Alicia And Kostas,2014-01-28,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Jamaica Plain,2,True,True
+3310704,Kyle & Sefira,2012-08-19,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+314576,Josh,2010-12-09,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+40108777,Larry,2015-07-31,"Boston, Massachusetts, United States",within an hour,100.0,96.0,True,,1,True,True
+17763937,Dawson,2014-07-07,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,True
+11332246,Oscar,2014-01-15,,a few days or more,40.0,100.0,False,Jamaica Plain,1,True,False
+2646681,Julie Lou,2012-06-15,"Washington, District of Columbia, United States",,,,False,Jamaica Plain,1,True,True
+884747,Meg,2011-07-28,"Boston, Massachusetts, United States",within a day,100.0,95.0,False,Jamaica Plain,2,True,True
+55571157,Steve,2016-01-21,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Jamaica Plain,1,True,True
+36238599,Julie,2015-06-19,US,within a few hours,90.0,100.0,False,,1,True,True
+41999943,Sara,2015-08-20,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Jamaica Plain,1,True,False
+11722054,Nina,2014-01-28,"Boston, Massachusetts, United States",within a day,75.0,67.0,False,Jamaica Plain,1,True,True
+228845,Jeremy,2010-09-08,"Manchester-by-the-Sea, Massachusetts, United States",within a few hours,100.0,56.0,False,Jamaica Plain,5,True,False
+14140959,Juliet,2014-04-10,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,False
+13372537,Molly,2014-03-21,"Boston, Massachusetts, United States",within an hour,100.0,86.0,True,Jamaica Plain,1,True,True
+47482159,Julie,2015-10-26,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+1697505,Francisco,2012-02-04,"Boston, Massachusetts, United States",within a few hours,100.0,50.0,False,Jamaica Plain,1,True,True
+4610847,Pam And Sara,2013-01-06,"Boston, Massachusetts, United States",within a day,90.0,100.0,False,Jamaica Plain,1,True,True
+49787594,Jeffrey,2015-11-24,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,True,Jamaica Plain,1,True,True
+16375951,Bec,2014-06-04,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+8829183,Eran,2013-09-14,"Boston, Massachusetts, United States",within an hour,100.0,67.0,False,Jamaica Plain,1,True,True
+1263583,Eric,2011-10-08,"Boston, Massachusetts, United States",,,,False,Jamaica Plain,1,True,True
+5115759,Mary Kate & Javier,2013-02-17,"Boston, Massachusetts, United States",within a few hours,100.0,78.0,False,Jamaica Plain,1,True,True
+2238969,Kenji,2012-04-27,"Boston, Massachusetts, United States",within a few hours,100.0,67.0,False,Jamaica Plain,1,True,True
+2356643,Ahmed,2012-05-12,"Cambridge, Massachusetts, United States",within a few hours,94.0,84.0,False,Theater District,18,True,True
+25188,Seamless,2009-07-10,US,within a few hours,89.0,45.0,False,Back Bay,558,True,True
+24559114,Nicole,2014-12-06,"Framingham, Massachusetts, United States",,,,False,West End,1,True,True
+22591136,Hasan Oguz,2014-10-15,"Boston, Massachusetts, United States",within an hour,98.0,72.0,False,Somerville,6,True,False
+2555135,Louise,2012-06-05,"New York, New York, United States",,,,False,Theater District,1,True,True
+16938558,Rex,2014-06-18,"Boston, Massachusetts, United States",within a few hours,97.0,63.0,False,Downtown,2,True,True
+18477814,Karen,2014-07-20,"Andover, Massachusetts, United States",within an hour,100.0,100.0,False,Theater District,1,True,True
+5618949,Alan,2013-03-25,"Boston, Massachusetts, United States",within an hour,100.0,94.0,False,Fenway/Kenmore,11,True,False
+12243051,Flatbook,2014-02-14,"Montreal, Quebec, Canada",within a few hours,71.0,98.0,False,Gay Village,363,True,True
+22304512,Juan,2014-10-08,"Quito, Pichincha, Ecuador",within a few hours,100.0,69.0,False,Theater District,1,True,False
+43959997,Emma,2015-09-11,"Medford, Massachusetts, United States",within an hour,100.0,99.0,False,Downtown Crossing,4,True,True
+757253,Nathaniel,2011-06-29,"Boston, Massachusetts, United States",within a few hours,100.0,95.0,False,Allston-Brighton,2,True,True
+2329611,Jon,2012-05-09,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Downtown Crossing,1,True,True
+11272292,Rebecca,2014-01-13,"Boston, Massachusetts, United States",within an hour,97.0,100.0,False,Downtown Crossing,4,True,True
+28662502,Tiffany,2015-03-03,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Beacon Hill,1,True,True
+36981635,Patt,2015-06-28,"New York, New York, United States",within an hour,86.0,99.0,False,Cambridge,5,True,True
+4962900,Stay Alfred,2013-02-04,"Spokane, Washington, United States",within an hour,100.0,36.0,False,Central Business District,307,True,True
+43942636,Terry And CJ,2015-09-11,"Fort Lauderdale, Florida, United States",within an hour,100.0,67.0,True,North End,1,True,True
+26988,Anne,2009-07-22,"Boston, Massachusetts, United States",within a few hours,100.0,93.0,False,Beacon Hill,12,True,False
+47486176,Jack,2015-10-26,"Quincy, Massachusetts, United States",within an hour,100.0,98.0,False,,3,True,True
+25757249,Jason,2015-01-07,"Boston, Massachusetts, United States",within an hour,100.0,93.0,False,Leather District,1,True,True
+43888695,Jeffrey,2015-09-10,"Boston, Massachusetts, United States",within an hour,100.0,0.0,False,Beacon Hill,1,True,False
+2237819,Katie Beth,2012-04-27,"Boston, Massachusetts, United States",,,,False,West End,1,True,False
+30283594,Kara,2015-03-30,US,within a few hours,98.0,55.0,False,Fenway/Kenmore,749,True,True
+28241697,Nawab,2015-02-23,"Boston, Massachusetts, United States",,,,False,Theater District,1,True,True
+19917804,Marisa,2014-08-12,"Beverly, Massachusetts, United States",within a few hours,100.0,100.0,True,Beacon Hill,1,True,True
+34226261,Flora,2015-05-25,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Downtown,1,True,True
+45824588,Matt,2015-10-05,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,West End,1,True,False
+3274255,Bella,2012-08-15,"Boston, Massachusetts, United States",within an hour,100.0,57.0,False,West End,2,True,True
+25655149,Jeff,2015-01-05,"Boston, Massachusetts, United States",within an hour,100.0,67.0,True,Leather District,2,True,True
+20857768,Adam,2014-09-02,"Boston, Massachusetts, United States",within a few hours,100.0,67.0,False,Downtown Crossing,15,True,True
+19470226,Tarek,2014-08-04,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,West End,2,True,True
+1846434,Jj,2012-03-02,"Boston, Massachusetts, United States",within an hour,97.0,95.0,False,Beacon Hill,4,True,True
+49420203,Patrick,2015-11-19,US,,,,False,,1,True,True
+46076242,Boston Elkin,2015-10-08,United States,within an hour,100.0,100.0,False,Downtown Crossing,1,True,True
+799496,Jin,2011-07-10,"Boston, Massachusetts, United States",within a few hours,100.0,96.0,False,Allston-Brighton,2,True,True
+3137257,Furnished Rentals,2012-08-02,"Boston, Massachusetts, United States",within a few hours,97.0,84.0,False,Downtown,11,True,True
+22348222,Alicia,2014-10-09,"Middlesex County, Massachusetts, United States",within a few hours,100.0,91.0,False,Beacon Hill,52,True,True
+15588404,Jennifer,2014-05-16,"Boston, Massachusetts, United States",within an hour,100.0,56.0,False,Beacon Hill,1,True,False
+20582119,Jeff,2014-08-26,"Boston, Massachusetts, United States",within an hour,100.0,99.0,False,Downtown Crossing,4,True,True
+11792930,Jing,2014-01-30,"Boston, Massachusetts, United States",within a few hours,100.0,33.0,False,Downtown,1,True,True
+6223931,Richard,2013-05-04,"Philadelphia, Pennsylvania, United States",,,,False,West End,1,True,True
+56359408,Billy,2016-01-27,"Boston, Massachusetts, United States",within an hour,100.0,61.0,False,,3,True,False
+88360952,Tony,2016-08-06,US,within an hour,100.0,100.0,False,,1,True,False
+25700968,Wentao,2015-01-06,US,within a few hours,98.0,94.0,False,Theater District,3,True,False
+1760577,Claire,2012-02-16,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Government Center,2,False,False
+508268,Richard,2011-04-14,"Boston, Massachusetts, United States",within a few hours,100.0,87.0,True,Allston-Brighton,12,True,False
+665668,Richelle,2011-06-05,"Webster, New York, United States",,,,False,Financial District,1,True,True
+55316424,Emma + Janine,2016-01-19,"Boston, Massachusetts, United States",within a day,100.0,92.0,False,,1,True,False
+41100756,Katharine,2015-08-10,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,West End,1,True,True
+30905023,Kierstyn,2015-04-09,"Boston, Massachusetts, United States",within a few hours,100.0,86.0,True,,1,True,True
+31804748,Dave,2015-04-23,"Boston, Massachusetts, United States",within an hour,100.0,95.0,False,North End,4,True,True
+26985683,Keith,2015-01-31,"Newton, Massachusetts, United States",within a day,100.0,100.0,False,Downtown Crossing,1,True,False
+21851356,Gustavo,2014-09-27,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Theater District,4,True,True
+39584749,Shemesh,2015-07-26,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Theater District,1,True,True
+23955944,Jodi,2014-11-19,"Boston, Massachusetts, United States",within a few hours,89.0,100.0,False,North End,2,True,True
+40946436,John,2015-08-09,"Acton, Massachusetts, United States",within an hour,100.0,100.0,True,Theater District,1,True,True
+84991497,Qing,2016-07-20,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,2,True,False
+480310,Michael,2011-04-03,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Back Bay,1,True,True
+74813179,Mike,2016-05-30,"Boston, Massachusetts, United States",within an hour,100.0,91.0,False,Financial District,1,True,False
+68137928,Jeffrey,2016-04-20,"Boston, Massachusetts, United States",within an hour,100.0,78.0,False,,3,True,True
+27450054,Shawn,2015-02-09,"Boston, Massachusetts, United States",within an hour,100.0,96.0,False,Downtown Crossing,1,True,True
+32252660,Nancy,2015-04-30,"Boston, Massachusetts, United States",within a few hours,100.0,91.0,False,,1,True,True
+81301451,Azize And Vivian,2016-07-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,1,True,True
+3755714,Nicholas,2012-10-04,"Boston, Massachusetts, United States",,,,False,,1,True,True
+27293241,Ismail,2015-02-05,"Boston, Massachusetts, United States",within a day,50.0,100.0,False,Downtown Crossing,1,True,False
+50072079,Charles,2015-11-28,"Chatham, Massachusetts, United States",within a few hours,100.0,100.0,False,Financial District,3,True,True
+71536024,Bill,2016-05-11,US,within an hour,100.0,96.0,True,Financial District,2,True,True
+9419684,Mike,2013-10-14,"New York, New York, United States",within a few hours,96.0,68.0,False,West End,313,True,True
+17045533,Lilly,2014-06-20,"Boston, Massachusetts, United States",within a day,83.0,100.0,False,Beacon Hill,1,True,True
+1911807,Chris,2012-03-12,"Boston, Massachusetts, United States",within a few hours,100.0,89.0,True,Downtown Crossing,1,True,True
+12776560,Stefanie,2014-03-03,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Downtown Crossing,1,True,True
+24904722,Sergio,2014-12-16,"Boston, Massachusetts, United States",within a day,100.0,28.0,False,Fenway/Kenmore,1,True,False
+90512786,Ainur,2016-08-17,"Gearhart, Oregon, United States",within an hour,100.0,79.0,False,,3,True,False
+15102445,Wendy,2014-05-04,"Taipei, Taiwan",within a few hours,100.0,100.0,False,Fenway/Kenmore,2,True,False
+36287718,Dan,2015-06-20,US,within a day,100.0,100.0,True,Fenway/Kenmore,1,True,False
+167745,Angela,2010-07-15,"Boston, Massachusetts, United States",within a day,70.0,91.0,False,Fenway/Kenmore,1,True,True
+324630,Sean,2010-12-21,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Mission Hill,7,True,True
+71393113,Eric,2016-05-10,"Cohasset, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,6,True,True
+9410008,Jason,2013-10-13,"Boston, Massachusetts, United States",within an hour,100.0,99.0,True,Back Bay,15,True,True
+43450256,Steve,2015-09-05,US,within an hour,100.0,100.0,False,Cambridge,3,True,True
+52580942,Ben,2015-12-28,"Weston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,2,True,True
+86400771,Elizabeth,2016-07-27,US,within an hour,97.0,100.0,False,Fenway/Kenmore,1,True,True
+69884462,Syed,2016-05-01,"Boston, Massachusetts, United States",within an hour,100.0,92.0,False,Fenway/Kenmore,1,True,True
+24120885,Nihala,2014-11-24,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Fenway/Kenmore,1,True,False
+14889768,Danielle And Cory,2014-04-29,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,1,True,True
+43502861,Randall,2015-09-06,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+14980513,Yair,2015-11-13,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,2,True,True
+24032418,Ella,2014-11-22,"Boston, Massachusetts, United States",within an hour,100.0,96.0,False,Fenway/Kenmore,1,True,True
+32373289,Trevon,2015-05-01,United States,within an hour,100.0,100.0,False,,1,True,False
+26648875,Echo,2015-01-24,"Boston, Massachusetts, United States",within an hour,100.0,88.0,False,,1,True,True
+68586089,An,2016-04-23,US,within an hour,100.0,95.0,False,Fenway/Kenmore,1,True,False
+24732813,Son,2014-12-11,"Boston, Massachusetts, United States",within a day,60.0,89.0,False,Fenway/Kenmore,1,True,False
+13931840,Dylan,2014-04-05,"Pittsburgh, Pennsylvania, United States",within an hour,97.0,98.0,False,Fenway/Kenmore,5,True,True
+18034920,Stella,2014-07-13,"Boston, Massachusetts, United States",within a few hours,83.0,81.0,False,Fenway/Kenmore,1,True,True
+86755107,Sushma,2016-07-29,"Boston, Massachusetts, United States",within a few hours,82.0,100.0,False,Fenway/Kenmore,1,True,True
+2914305,Spiro,2012-07-12,Boston and London,within a day,70.0,73.0,False,Fenway/Kenmore,1,True,True
+184232,Ashley,2010-07-29,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,2,True,True
+47492498,Mohab,2015-10-26,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,2,True,False
+33319723,Anna,2015-05-13,"Boston, Massachusetts, United States",within an hour,100.0,83.0,False,Fenway/Kenmore,1,True,True
+76798281,Lilly,2016-06-09,"Boston, Massachusetts, United States",within a few hours,100.0,90.0,False,Fenway/Kenmore,1,True,False
+34077299,Russell,2015-05-24,"Boston, Massachusetts, United States",within a day,50.0,50.0,False,,1,True,True
+26420664,Michael,2015-01-20,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Fenway/Kenmore,1,True,True
+12790789,Amanda,2014-03-04,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Fenway/Kenmore,2,True,True
+76775380,Evren,2016-06-09,"Cambridge, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+13366252,Ori,2014-03-21,"Tel Aviv, Israel",within a few hours,100.0,93.0,False,Fenway/Kenmore,1,True,True
+9529655,Suzanne,2013-10-20,"Boston, Massachusetts, United States",within a few hours,100.0,50.0,False,Fenway/Kenmore,2,True,True
+31035017,Jason,2015-04-11,"Boston, Massachusetts, United States",within an hour,100.0,67.0,False,Fenway/Kenmore,4,True,False
+73329564,Mónica,2016-05-22,"Boston, Massachusetts, United States",within a day,90.0,100.0,False,Fenway/Kenmore,1,True,False
+18202088,Beantown Suites,2014-07-16,"Boston, Massachusetts, United States",within a few hours,97.0,81.0,False,Cambridge,21,True,True
+20218192,Mark,2014-08-18,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+1488999,Krystle,2011-12-09,"Boston, Massachusetts, United States",within a few hours,100.0,90.0,False,Fenway/Kenmore,1,True,True
+92196747,Neza,2016-08-27,"Boston, Massachusetts, United States",,,,False,,1,True,False
+47559181,Reitumetse,2015-10-27,US,,,,False,Fenway/Kenmore,1,True,False
+76224461,JuJu,2016-06-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,1,True,False
+6262335,Katie,2013-05-06,"Boston, Massachusetts, United States",within a few hours,93.0,90.0,False,Fenway/Kenmore,1,True,False
+17407425,Jamison,2014-06-29,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+75077108,Sarah,2016-05-31,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,1,True,False
+32874377,Joyce,2015-05-08,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,1,True,True
+33659392,Ismail,2015-05-18,"Los Angeles, California, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,1,True,True
+21599409,Thai,2014-09-21,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+65474357,Eli,2016-04-02,"Boston, Massachusetts, United States",within a few hours,100.0,91.0,False,Fenway/Kenmore,1,True,False
+21184200,Paige,2014-09-10,"Boston, Massachusetts, United States",within an hour,99.0,81.0,False,South Boston,30,True,True
+19857480,Flo,2014-08-11,Hong Kong,within a few hours,94.0,18.0,False,Fenway/Kenmore,1,True,True
+27569517,Anna,2015-02-11,US,,,,False,Fenway/Kenmore,1,True,False
+4170200,Anna,2012-11-16,"Boston, Massachusetts, United States",within an hour,100.0,98.0,False,Fenway/Kenmore,1,True,True
+13633800,Jessie,2014-03-28,"Boston, Massachusetts, United States",a few days or more,0.0,100.0,False,Fenway/Kenmore,1,True,True
+83270862,Lizzy,2016-07-12,US,a few days or more,30.0,100.0,False,Fenway/Kenmore,1,True,False
+4343802,Mohan,2012-12-06,"Boston, Massachusetts, United States",within a few hours,86.0,71.0,False,Fenway/Kenmore,1,True,False
+48018479,Yining,2015-11-02,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+1555309,Mathilde,2012-01-01,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Fenway/Kenmore,1,True,True
+16684348,"Michelle, Stevie & Tyson",2014-06-11,"Reading, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,False
+32860113,Emily,2015-05-07,"Boston, Massachusetts, United States",within an hour,100.0,96.0,True,Fenway/Kenmore,1,True,True
+27127153,Gayle,2015-02-02,"Boston, Massachusetts, United States",within a day,80.0,67.0,False,Fenway/Kenmore,1,True,True
+1868179,Ryan,2012-03-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+32278468,Doug,2015-04-30,"Vienna, Virginia, United States",within an hour,100.0,82.0,True,Fenway/Kenmore,1,True,True
+48419543,Justin,2015-11-07,"Cambridge, Massachusetts, United States",within an hour,100.0,83.0,False,Fenway/Kenmore,1,True,True
+31993940,Sean,2015-04-26,"Boston, Massachusetts, United States",within an hour,100.0,86.0,False,,1,True,True
+6967157,Fiona,2013-06-17,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+29336905,Emily,2015-03-14,"Boston, Massachusetts, United States",within a day,100.0,50.0,False,,1,True,True
+23181076,Iain,2014-10-31,"Boston, Massachusetts, United States",within a day,100.0,25.0,False,Fenway/Kenmore,1,True,True
+10132799,Ezra,2013-11-19,"Boston, Massachusetts, United States",within a day,100.0,71.0,False,,2,True,True
+12340193,Matthew,2014-02-18,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+44536131,Amaan,2015-09-18,"Boston, Massachusetts, United States",within a day,50.0,85.0,False,Fenway/Kenmore,1,True,True
+20162776,Lior,2014-08-17,"Boston, Massachusetts, United States",within an hour,90.0,100.0,False,Fenway/Kenmore,1,True,True
+60374290,Jennifer,2016-02-25,US,within a day,80.0,80.0,False,Fenway/Kenmore,1,True,False
+9617517,Armand,2013-10-24,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Fenway/Kenmore,1,True,True
+31204913,Anfisa,2015-04-14,"Cambridge, Massachusetts, United States",a few days or more,30.0,94.0,False,,1,True,True
+15144533,Brian,2014-05-05,"Boston, Massachusetts, United States",within an hour,100.0,0.0,False,Fenway/Kenmore,1,True,True
+81981091,Alonzo & Grace,2016-07-05,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,False
+80570686,Sienna,2016-06-28,US,within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,False
+17194624,Bernie,2014-06-24,US,within a day,96.0,95.0,False,Back Bay,4,True,False
+22541573,Ken,2014-10-14,"New York, New York, United States",within an hour,100.0,69.0,False,Upper East Side,122,True,True
+8012996,Alice,2013-08-07,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+18824139,Brendan,2014-07-24,"Boston, Massachusetts, United States",within a day,90.0,46.0,True,Fenway/Kenmore,1,True,True
+46814477,Tao,2015-10-18,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,False
+159160,Deborah,2010-07-06,"Boston, Massachusetts, United States",within a few hours,100.0,83.0,True,Fenway/Kenmore,1,True,False
+66750863,Vivek,2016-04-11,"Mumbai, Maharashtra, India",within a few hours,100.0,59.0,False,,1,True,True
+51899080,Ashlee,2015-12-21,"Boston, Massachusetts, United States",within a few hours,100.0,94.0,False,Fenway/Kenmore,1,True,True
+35990162,Gerald,2015-06-16,"Weymouth, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+4789734,Andrew,2013-01-21,"Boston, Massachusetts, United States",within a day,75.0,74.0,False,Fenway/Kenmore,1,True,True
+84987667,Anne,2016-07-20,US,within an hour,100.0,80.0,False,,1,True,False
+7825154,Ariel,2013-07-30,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+33386421,Victor,2015-05-14,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+23822417,Barbara + Tyler,2014-11-16,"Boston, Massachusetts, United States",within an hour,100.0,50.0,False,,1,True,True
+23029544,Jamie,2014-10-27,"Boston, Massachusetts, United States",within an hour,90.0,100.0,False,Fenway/Kenmore,1,True,True
+22781505,Samantha,2014-10-20,"San Francisco, California, United States",within a day,100.0,100.0,False,,1,True,True
+10477120,Gary,2013-12-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,2,True,False
+42073056,Filipe,2015-08-20,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+44341268,Tony,2015-09-16,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Fenway/Kenmore,1,True,True
+10258834,Jared,2013-11-25,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Fenway/Kenmore,1,True,False
+57050977,Gaël-Etienne,2016-02-01,"Boston, Massachusetts, United States",within a day,73.0,83.0,False,Fenway/Kenmore,1,True,True
+1716576,David,2012-02-07,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+3975862,Laura,2012-10-25,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,False
+24257739,Emery,2014-11-28,"Boston, Massachusetts, United States",a few days or more,19.0,100.0,False,Fenway/Kenmore,1,True,False
+27496706,Brian,2015-02-09,"Boston, Massachusetts, United States",within a few hours,100.0,83.0,False,Fenway/Kenmore,1,True,True
+29227463,Dylan,2015-03-12,"Fairfield, Connecticut, United States",within a few hours,88.0,67.0,False,Fenway/Kenmore,1,True,True
+10370843,Marco,2013-12-01,"Boston, Massachusetts, United States",within a day,100.0,44.0,False,Fenway/Kenmore,1,True,True
+41720242,Irv,2015-08-17,Singapore,within a few hours,90.0,100.0,False,,3,True,True
+4121218,Andree,2012-11-11,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Fenway/Kenmore,1,True,True
+958639,Larry,2011-08-11,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Fenway/Kenmore,2,True,True
+9967305,Kelly,2013-11-12,"Boston, Massachusetts, United States",within a few hours,96.0,81.0,False,Fenway/Kenmore,2,True,True
+11890037,Will & Mari,2014-02-03,"Boston, Massachusetts, United States",,,,False,Fenway/Kenmore,1,True,True
+8139434,Ari,2013-08-13,"Boston, Massachusetts, United States",within an hour,100.0,95.0,True,Allston-Brighton,13,True,True
+29394026,Leyla,2015-03-15,"Boston, Massachusetts, United States",within an hour,85.0,100.0,False,Allston-Brighton,1,True,False
+33835566,Keval,2015-05-20,US,,,,False,Allston-Brighton,1,True,False
+78508229,Chloe,2016-06-18,US,within an hour,100.0,100.0,False,Allston-Brighton,1,False,False
+18604433,Shashank,2014-07-21,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,3,True,True
+2152299,Isaac & Claudia,2012-04-16,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,2,True,True
+4240,Giuseppe,2008-11-11,"Boston, Massachusetts, United States",within a few hours,90.0,78.0,False,Allston-Brighton,6,True,True
+36885389,Jwon,2015-06-27,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+660123,Steffen,2011-06-03,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Allston-Brighton,1,True,True
+31545543,Zack,2015-04-19,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,2,True,True
+9189449,Cindy,2013-10-02,"Brookline, Massachusetts, United States",within a few hours,95.0,99.0,False,Allston-Brighton,6,True,True
+8503981,Elham,2013-08-29,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+32304279,Charles And Grace,2015-04-30,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,5,True,True
+30489899,Helena,2015-04-02,"Boston, Massachusetts, United States",within an hour,100.0,67.0,False,Allston-Brighton,14,True,True
+31979584,Regina,2015-04-26,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,,1,True,False
+53285192,Sam,2016-01-04,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+47477850,Tony,2015-10-26,US,within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+17892292,Marlene,2014-07-09,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,4,True,False
+49194545,Grace,2015-11-16,"Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+14003826,Mina,2014-04-07,US,a few days or more,33.0,100.0,False,,1,True,False
+22089451,Rez,2014-10-03,"Boston, Massachusetts, United States",,,,False,,1,True,True
+26956083,Todd,2015-01-30,"Boston, Massachusetts, United States",within an hour,99.0,93.0,False,Allston-Brighton,24,True,True
+25279966,Vj,2014-12-27,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Allston-Brighton,2,True,True
+45004988,Cristina,2015-09-24,US,within a few hours,100.0,67.0,True,Allston-Brighton,1,True,True
+48948403,Tate,2015-11-13,"Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+26754605,Katia,2015-01-26,"Boston, Massachusetts, United States",within a few hours,100.0,60.0,False,Allston-Brighton,1,True,False
+19548932,Joe,2014-08-06,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,8,True,True
+50646598,Alena,2015-12-06,"Boston, Massachusetts, United States",within a few hours,100.0,63.0,False,Allston-Brighton,9,True,True
+22531540,Yaoming,2014-10-14,"Boston, Massachusetts, United States",within a few hours,100.0,86.0,True,Allston-Brighton,1,True,True
+17576539,Lushan,2014-07-02,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+14785487,Aihua,2014-04-27,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Roxbury,7,True,True
+52364711,Niki,2015-12-26,"Boston, Massachusetts, United States",within a few hours,100.0,67.0,False,Allston-Brighton,1,True,False
+40220824,Gerard,2015-08-01,"Barcelona, Catalonia, Spain",within an hour,100.0,100.0,False,Allston-Brighton,1,True,False
+25149641,Rachid,2014-12-23,"Boston, Massachusetts, United States",within an hour,100.0,82.0,False,Allston-Brighton,6,True,True
+6868321,Gogo,2013-06-12,"Boston, Massachusetts, United States",within a few hours,92.0,97.0,False,,1,True,False
+44920221,Michel,2015-09-23,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,False
+76331237,Chole,2016-06-07,"Boston, Massachusetts, United States",within an hour,100.0,94.0,False,Allston-Brighton,2,True,False
+2051523,Chenkai,2012-04-01,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Allston-Brighton,2,True,True
+76590235,Amy L,2016-06-08,"Massachusetts, United States",within a few hours,90.0,42.0,False,,1,True,False
+29899026,Heather,2015-03-24,US,,,,False,Allston-Brighton,1,True,False
+22419290,Sylvia,2014-10-11,"Beijing, Beijing, China",,,,False,Allston-Brighton,1,True,True
+35381728,Luson,2015-06-09,US,,,,False,Allston-Brighton,1,True,False
+40649306,Aisha,2015-08-05,"Boston, Massachusetts, United States",within a few hours,67.0,50.0,False,Allston-Brighton,1,True,False
+1944123,Marketa,2012-03-17,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+5984885,Nick,2013-04-18,"Boston, Massachusetts, United States",within a few hours,100.0,75.0,False,Allston-Brighton,6,True,True
+68753453,Jarib,2016-04-24,US,within a few hours,100.0,100.0,False,Allston-Brighton,1,True,False
+5992030,Asasia,2013-04-18,"Boston, Massachusetts, United States",within a day,100.0,83.0,False,Allston-Brighton,1,True,True
+39088458,Jordan,2015-07-21,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+38440,The Farrington Inn,2009-09-14,US,within a day,100.0,42.0,False,Allston-Brighton,4,True,False
+25363817,Carl,2014-12-29,"Boston, Massachusetts, United States",within an hour,92.0,91.0,True,Allston-Brighton,2,True,True
+20327499,Renata,2014-08-20,"Boston, Massachusetts, United States",within a day,90.0,95.0,False,,1,True,False
+6933825,Estee,2013-06-16,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,,1,True,True
+49741901,Hang,2015-11-23,"Boston, Massachusetts, United States",within an hour,100.0,98.0,False,Allston-Brighton,3,True,True
+18182924,Mar,2014-07-16,"Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+35068378,Zicong,2015-06-05,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+5383468,Cantay,2013-03-09,"Boston, Massachusetts, United States",within a few hours,100.0,88.0,True,Allston-Brighton,1,True,True
+8068253,Andrew,2013-08-10,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,,1,True,True
+10138187,Sally,2013-11-19,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,2,True,False
+12711168,Alfredo,2014-03-02,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Allston-Brighton,1,True,True
+23775896,Molly,2014-11-15,"Binghamton, New York, United States",within an hour,100.0,100.0,False,Allston-Brighton,2,True,True
+12211716,Mark,2014-02-13,"Boston, Massachusetts, United States",within an hour,100.0,96.0,False,Allston-Brighton,1,True,True
+13263766,Olechka,2014-03-18,"Boston, Massachusetts, United States",within an hour,100.0,93.0,False,,1,True,False
+27862749,Alex,2015-02-16,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+67536196,Maani,2016-04-17,"Boston, Massachusetts, United States",within a day,70.0,89.0,False,Allston-Brighton,1,True,True
+9993095,Xenia,2013-11-13,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+3483194,Max,2012-09-05,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+88908642,Kevin,2016-08-09,US,within an hour,100.0,88.0,False,Allston-Brighton,1,True,False
+24567367,Julien,2014-12-07,"Paris, Île-de-France, France",,,,False,Allston-Brighton,1,True,True
+30708464,Sean,2015-04-06,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+45928495,Carla,2015-10-06,"Boston, Massachusetts, United States",within an hour,100.0,67.0,False,Allston-Brighton,2,True,True
+54553266,Feibiao,2016-01-13,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,False
+11159801,Jim,2014-01-09,"Boston, Massachusetts, United States",within a day,80.0,88.0,False,Allston-Brighton,1,True,True
+6610984,Thibaud,2013-05-28,"Boston, Massachusetts, United States",within a day,100.0,58.0,False,Allston-Brighton,1,True,True
+378555,Bill & Baifeng,2011-02-05,"Allston part of Boston, by Cambridge",within a day,84.0,74.0,False,Allston-Brighton,1,True,True
+4144048,Roger And Sophie,2012-11-13,"Boston, Massachusetts, United States",within an hour,100.0,100.0,True,Allston-Brighton,1,True,True
+56415751,Chloe,2016-01-27,"Waltham, Massachusetts, United States",within a few hours,95.0,76.0,False,Allston-Brighton,2,True,False
+40888395,Tarek,2015-08-08,"Beirut, Beirut, Lebanon",within an hour,100.0,100.0,False,Allston-Brighton,1,True,False
+3333602,Roma,2012-08-21,"Jersey City, New Jersey, United States",a few days or more,33.0,100.0,False,Allston-Brighton,1,True,False
+5235073,Yu-Chen,2013-02-26,"Boston, Massachusetts, United States",within an hour,100.0,99.0,False,Allston-Brighton,3,True,True
+65973859,Saudiyah,2016-04-05,US,within a few hours,100.0,90.0,False,Allston-Brighton,1,True,False
+4365676,Johannes,2012-12-09,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Allston-Brighton,1,True,True
+2205295,Khurram,2015-12-15,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+41921566,Melba,2015-08-19,"Boston, Massachusetts, United States",within an hour,100.0,96.0,False,Chelsea,4,True,True
+9953174,Mengqi,2013-11-11,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+51321009,Lyn,2015-12-14,"Boston, Massachusetts, United States",within an hour,100.0,98.0,False,Allston-Brighton,2,True,True
+18194953,Natanya,2014-07-16,"Boston, Massachusetts, United States",within a day,90.0,100.0,False,,1,True,False
+24584254,Ak,2014-12-07,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Allston-Brighton,1,True,True
+69252188,Jeff,2016-04-27,US,within a day,100.0,100.0,False,,1,True,True
+1169280,Herbie,2011-09-16,"Washington, District of Columbia, United States",within a few hours,100.0,58.0,False,,1,True,True
+80361500,Danny,2016-06-27,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+59206758,George,2016-02-17,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+11132354,Alla,2014-01-08,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,False
+77341393,Afsoon,2016-06-12,US,within a few hours,100.0,55.0,False,Allston-Brighton,1,True,False
+37881504,Gong,2015-07-08,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+41259192,Akshay,2015-08-12,"Boston, Massachusetts, United States",within an hour,100.0,71.0,False,Allston-Brighton,1,True,False
+21983670,Eric,2014-09-30,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+30172860,Nathan,2015-03-28,"Boston, Massachusetts, United States",within a day,100.0,77.0,True,Allston-Brighton,1,True,True
+15517760,Robert,2014-05-14,"Boston, Massachusetts, United States",within a few hours,100.0,78.0,False,Allston-Brighton,1,True,True
+43779441,Tanmay,2015-09-09,US,within an hour,100.0,67.0,False,Allston-Brighton,1,True,False
+46984941,Omar,2015-10-19,"Laurel, Maryland, United States",,,,False,Allston-Brighton,1,True,False
+42396951,Katie,2015-08-24,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,False
+3609519,Monica,2012-09-18,"Boston, Massachusetts, United States",within a day,100.0,100.0,False,Allston-Brighton,1,True,False
+6636693,Yi,2013-05-29,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+49546656,Oliver,2015-11-21,"Boston, Massachusetts, United States",within a few hours,100.0,77.0,False,,1,True,True
+9151990,Roxy,2013-09-30,"San Francisco, California, United States",within an hour,100.0,100.0,False,Mission District,2,True,True
+41734842,Bendik,2015-08-17,"Bergen, Hordaland, Norway",,,,False,Allston-Brighton,2,True,False
+13565868,Christie,2014-03-26,"Boston, Massachusetts, United States",within an hour,100.0,90.0,False,,1,True,True
+911968,Gianluca,2011-08-02,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+6104365,Sarah,2013-04-26,"Boston, Massachusetts, United States",within a few hours,100.0,100.0,False,Allston-Brighton,1,True,True
+52133887,Hongjin,2015-12-23,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+44536618,Qihui,2015-09-18,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,Allston-Brighton,1,True,True
+30988954,Lauren,2015-04-10,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+32041326,Kewei,2015-04-27,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+16569506,Alex,2014-06-09,"Boston, Massachusetts, United States",,,,False,Allston-Brighton,1,True,True
+19008767,Ellen,2014-07-27,"Massachusetts, United States",within an hour,100.0,98.0,False,Cambridge,7,True,True
+74137888,Chris,2016-05-26,,within a few hours,100.0,100.0,False,,1,True,False
+90497470,Sofia And Kim,2016-08-17,"Brookline, Massachusetts, United States",within an hour,100.0,100.0,False,Brookline,1,True,False
+78459716,Charles,2016-06-18,"Boston, Massachusetts, United States",within an hour,100.0,100.0,False,,4,True,False

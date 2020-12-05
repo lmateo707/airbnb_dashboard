@@ -1,3 +1,5 @@
+# Open app.py in gitbash to open website until we deploy it to heroku
+
 # Import dependencies
 import os
 import pandas as pd
@@ -17,7 +19,7 @@ app = Flask(__name__)
 # Database Setup
 #################################################
 # Identify the database path
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db/airbnb_db.sqlite"
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///db/airbnb_data.sqlite"
 # Make it so that it doesn't track modifications
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
@@ -28,9 +30,13 @@ db = SQLAlchemy(app)
 Base = automap_base()
 # reflect the tables
 Base.prepare(db.engine, reflect=True)
+print(Base.classes.keys())
+listings = Base.classes.listings
+reviews = Base.classes.reviews
+hosts = Base.classes.hosts
 
 # Define the engine
-engine = create_engine("sqlite:///db/airbnb_db.sqlite", encoding='utf8')
+engine = create_engine("sqlite:///db/airbnb_data.sqlite", encoding='utf8')
 conn = engine.connect()
 session = Session(engine)
 
@@ -49,8 +55,10 @@ def index():
 @app.route("/neighborhoods")
 def neighborhoods():
     # Run a query to find all unique neighborhoods and return a list of those neighborhoods
-    neighborhoods = pd.read_sql("SELECT neighbourhood_cleansed FROM listings",engine)
+    # neighborhoods = pd.read_sql("SELECT neighbourhood_cleansed FROM listings",engine)
+    neighborhoods = pd.DataFrame(session.query(listings.neighbourhood_cleansed).all())
     neighborhoods_list = neighborhoods['neighbourhood_cleansed'].unique()    
+    session.close()
     return jsonify(neighborhoods_list.tolist())
 
 # Define the route to "/pricesummary/<neighborhood>"
@@ -230,4 +238,4 @@ def listingscount(neighborhood):
     
 # Run the application
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
