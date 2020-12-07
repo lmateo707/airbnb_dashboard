@@ -1,4 +1,4 @@
-# airbnb_dashboard
+# Airbnb Dashboard
 
 ## Background Information
 
